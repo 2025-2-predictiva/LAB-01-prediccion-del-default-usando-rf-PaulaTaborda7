@@ -31,9 +31,9 @@ METRICS = [
         "type": "metrics",
         "dataset": "test",
         "precision": 0.640,
-        "balanced_accuracy": 0.672,
+        "balanced_accuracy": 0.673,
         "recall": 0.401,
-        "f1_score": 0.497,
+        "f1_score": 0.498,
     },
     {
         "type": "cm_matrix",
@@ -44,7 +44,7 @@ METRICS = [
     {
         "type": "cm_matrix",
         "dataset": "test",
-        "true_0": {"predicted_0": 6648, "predicted_1": None},
+        "true_0": {"predicted_0": 6670, "predicted_1": None},
         "true_1": {"predicted_0": None, "predicted_1": 760},
     },
 ]
